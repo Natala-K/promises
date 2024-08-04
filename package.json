@@ -5,6 +5,7 @@
   "scripts": {
     "test": "jest",
     "build": "webpack",
+    "coverage": "jest --coverage",
     "lint": "eslint src/**/*.js"
   },
   "keywords": [],
